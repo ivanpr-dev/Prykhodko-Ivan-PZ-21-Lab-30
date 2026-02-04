@@ -1,0 +1,12 @@
+{
+  "imgs": [
+    {
+      "img": "image1.jpg",
+      "title": "Image 1"
+    },
+    {
+      "img": "image2.jpg",
+      "title": "Image 2"
+    }
+  ]
+}
